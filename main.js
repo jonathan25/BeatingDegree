@@ -29,7 +29,7 @@ function loadData() {
     const MAX_DIFFERENCE = 50
     var levels = ["not bad", "bad", "really bad", "awful", "rekt"]
     $.ajax({
-        url: "http://www.nfl.com/liveupdate/scorestrip/ss.xml",
+        url: "https://www.nfl.com/liveupdate/scorestrip/ss.xml",
         type: "GET",
         dataType: "xml",
         success: function (response) {
