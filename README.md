@@ -1,2 +1,2 @@
 # BeatingDegree
-Demo in [here](https://jonathan25.github.io/BeatingDegree)
+Demo [here](https://jonathan25.github.io/BeatingDegree)
